@@ -15,7 +15,7 @@ A **demo project** that shows how to build, test, and deploy a **React applicati
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Prerequisites](#-prerequisites)
-- [Installation & Local Setup (#-installation--local-setup)
+- [Installation & Local Setup] (#-installation--local-setup)
 - [CI/CD Workflow](#-ci-cd-workflow)
 - [Kubernetes Deployment](#-kubernetes-deployment)
 - [Usage](#-usage)
