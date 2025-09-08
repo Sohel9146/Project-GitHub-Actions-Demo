@@ -11,22 +11,23 @@ A **demo project** that shows how to build, test, and deploy a **React applicati
 
 ---
 
+
 ## 📋 Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation--local-setup)
-- [CI/CD Workflow](#-ci-cd-workflow)
-- [Kubernetes Deployment](#-kubernetes-deployment)
-- [Usage](#-usage)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [Use Case / Why This Project Matters](#-use-case--why-this-project-matters)
-- [Key Learnings](#-key-learnings)
-- [Future Enhancements / Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [Author](#-author)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation & Local Setup](#installation--local-setup)
+- [CI/CD Workflow](#cicd-workflow)
+- [Kubernetes Deployment](#kubernetes-deployment)
+- [Usage](#usage)
+- [Architecture](#architecture)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
+- [Use Case / Why This Project Matters](#use-case--why-this-project-matters)
+- [Key Learnings](#key-learnings)
+- [Future Enhancements / Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Author](#author)
 
 ---
 
