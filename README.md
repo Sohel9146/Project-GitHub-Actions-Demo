@@ -143,17 +143,20 @@ minikube service react-cicd-demo-service -n default
 - **React App Running**  
 ![React App](./screenshots/react-app.png)
 
-- **GitHub Actions Pipeline**  
-![GitHub Actions](./screenshots/github-actions.png)
+- **GitHub Actions**  
+![GitHub Actions](./screenshots/action.png)
+
+- **GitHub Actions Pipeline Stages**  
+![GitHub Actions](./screenshots/build-stage.jpeg)
 
 - **Docker Hub Image**  
-![Docker Hub](./screenshots/docker-hub.png)
+![Docker Hub](./screenshots/dockerhub.png)
 
 - **Kubernetes Pods**  
-![Kubernetes Pods](./screenshots/k8s-pods.png)
+![Kubernetes Pods](./screenshots/kubernetes-get-pods.png)
 
 - **App Deployed via Minikube**  
-![Deployed App](./screenshots/deployed-app.png)
+![Deployed App](./screenshots/kubernetes-deployment.png)
 
 ---
 
