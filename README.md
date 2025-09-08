@@ -197,6 +197,6 @@ To contribute:
 
 ## 👨‍💻 Author
 **Shaikh Sohel**  
-[GitHub](https://github.com/Sohel9146) | [LinkedIn](https://linkedin.com)  
+[GitHub](https://github.com/Sohel9146) | [Naukri](https://www.naukri.com/mnjuser/profile)    
 
 ---
