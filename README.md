@@ -11,7 +11,6 @@ A **demo project** that shows how to build, test, and deploy a **React applicati
 
 ---
 
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -25,9 +24,10 @@ A **demo project** that shows how to build, test, and deploy a **React applicati
 - [Screenshots](#screenshots)
 - [Use Case / Why This Project Matters](#use-case--why-this-project-matters)
 - [Key Learnings](#key-learnings)
-- [Future Enhancements / Roadmap](#roadmap)
+- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Author](#author)
+
 
 ---
 
